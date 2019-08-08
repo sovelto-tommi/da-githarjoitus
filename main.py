@@ -1,3 +1,6 @@
-"Masterin main-moduuli"
+"Masterin main-moduuli mergettynä"
 
-print("Hello from Master");
+
+if __name__ == '__main__':
+    print("Hello from Master");
+
