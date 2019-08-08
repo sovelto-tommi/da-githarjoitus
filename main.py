@@ -1,6 +1,8 @@
 "Masterin main-moduuli mergettynä"
 
 
-if __name__ == '__main__':
-    print("Hello from Master");
+from uusi import tulosta, toinen
 
+if __name__ == '__main__':
+    print("Hello from Dev!")
+    tulosta("Teksti")
